@@ -1,0 +1,31 @@
+body {
+    background-color: var(--bg-color)!important; 
+    color: var(--text-color ) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+#submit{
+    background-color: var(--primary-color) !important;
+    border: 3px solid #0a0a0a;
+    border-radius: 30px;
+    text-align: center;
+}
+#submit:hover{
+    background-color: var(--text-color) !important;
+    border: 3px solid #0a0a0a;
+}
+#container1{
+    border: 5px solid var(--primary-color);
+    border-radius: 30px;
+}
+#exampleInputEmail1{
+    border: 3px solid var(--primary-color);
+    border-radius: 30px;
+}
+#exampleInputPassword1{
+    border: 3px solid var(--primary-color);
+    border-radius: 30px;
+}

@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --bg-color:#0a0a0a;
+    --primary-color: #FFAD05;
+    --text-color: white;
+}
